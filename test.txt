@@ -1,0 +1,10 @@
+1). UoB-50567  Ejendomme tab - While adding a new property, 'ANNULLER' button should be disabled.
+
+2). UoB-50569  Ejendomme - 'ANNULLER' and 'GEM & LUK' buttons do not get enabled after duplicate property error message is displayed
+
+
+
+
+
+
+ 
