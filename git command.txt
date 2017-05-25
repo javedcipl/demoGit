@@ -1,0 +1,13 @@
+1).  Initilized local repor
+git init //Intialize local repositry
+2). Link local repo to remote
+ git remote add origin <remote_repo_url>
+
+ git merge -m 'merge testing into satging 23th May By Javed' origin/testing_uobbusiness_app
+ 
+ 
+ Amount is displayed correctly only after setting/changing rate, but next time when opening the tab amount is 100 times bigger. [Done On Testing]
+It would be better not only color previously entered values with grey, but also values for new rows. Only after moving focus away they must be colored in orange as in the "Loans" tab. [Done On Testing]
+What are the remove buttons in the autocompletion list? How do they work and what is their purpose? It seems like they remove these values from the list forever. Of course this is not needed.
+Please also comment possibility of displaying the list of values for autocompletion when the editbox is empty. I have not see this. [Done On Testing]
+Please make the section header with all capital letters: "THIRD-PARTY COMMISSIONS". [Done On Testing]
